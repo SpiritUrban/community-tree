@@ -1,0 +1,9 @@
+html {
+    background: #111;
+    color: wheat;
+}
+
+#members{
+    display: flex;
+    flex-direction: column;
+}
