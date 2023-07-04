@@ -1,0 +1,18 @@
+html {
+    background: #111;
+    color: wheat;
+    background: #0d344e;
+    background: -moz-linear-gradient(left, #0d344e 0%, #185b89 51%, #144e75 100%);
+    background: -webkit-linear-gradient(left, #0d344e 0%, #185b89 51%, #144e75 100%);
+    background: linear-gradient(to right, #0d344e 0%, #185b89 51%, #144e75 100%);
+}
+
+#members {
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    color: wheat;
+
+}
