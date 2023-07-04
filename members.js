@@ -3,7 +3,7 @@ export default [
         name: 'SpiritUrban',
     },
     {
-        name: 'User2',
+        name: 'NedVlor',
     },
     {
         name: 'User3',
